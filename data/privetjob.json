@@ -1,0 +1,167 @@
+[
+  {
+    "id": "2",
+    "company": "C7 Commerce Private Limited (Clan Shoes)",
+    "postName": "Sound Designer",
+    "qualification": "Bachelor's (Preferred)",
+    "experience": "1 year (Preferred)",
+    "jobType": "Full-time",
+    "location": "Hyderabad, Telangana",
+    "lastDate": "2025-02-22",
+    "applyLink": "https://in.indeed.com/Private-jobs"
+  },
+  {
+    "id": "3",
+    "company": "Liebherr India Private Limited",
+    "postName": "Assistant Manager Sales (West Region)",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Mumbai, Maharashtra",
+    "lastDate": "2025-03-07",
+    "applyLink": "https://in.indeed.com/Private-jobs"
+  },
+  {
+    "id": "4",
+    "company": "Kunduz Technologies Private Limited",
+    "postName": "Doubt Solving Expert (Mathematics)",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Remote",
+    "lastDate": "2025-02-22",
+    "applyLink": "https://in.indeed.com/Private-jobs"
+  },
+  {
+    "id": "5",
+    "company": "JASWANT RASAYAN PRIVATE LIMITED",
+    "postName": "Production Supervisor",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Hisar, Haryana",
+    "lastDate": "2025-03-07",
+    "applyLink": "https://in.indeed.com/Private-jobs"
+  },
+  {
+    "id": "6",
+    "company": "Vlippr",
+    "postName": "Community Manager (Discord/YouTube)",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Remote",
+    "lastDate": "2025-03-10",
+    "applyLink": "https://in.indeed.com/Private-jobs"
+  },
+  {
+    "id": "7",
+    "company": "MyfitSoul Technologies Private Limited",
+    "postName": "Customer Support Associate",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Remote",
+    "lastDate": "2025-03-05",
+    "applyLink": "https://in.indeed.com/viewjob?jk=1234567890"
+  },
+  {
+    "id": "8",
+    "company": "Cyblance Technologies Private Limited",
+    "postName": "Any Graduate (Freshers) - IT Company",
+    "qualification": "Relevant Qualification",
+    "experience": "Freshers",
+    "jobType": "Full-time",
+    "location": "Ahmedabad, Gujarat",
+    "lastDate": "2025-02-28",
+    "applyLink": "https://in.indeed.com/viewjob?jk=2345678901"
+  },
+  {
+    "id": "9",
+    "company": "Aihiom Solz Private Limited",
+    "postName": "Content Researcher / Content Manager for a Technology Company",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Remote",
+    "lastDate": "2025-02-20",
+    "applyLink": "https://in.indeed.com/viewjob?jk=3456789012"
+  },
+  {
+    "id": "10",
+    "company": "Mysa Technology Private Limited",
+    "postName": "Sales Development Representative (IT sales)",
+    "qualification": "Relevant Qualification",
+    "experience": "3-4 years",
+    "jobType": "Full-time",
+    "location": "Ahmedabad, Gujarat",
+    "lastDate": "2025-02-22",
+    "applyLink": "https://in.indeed.com/viewjob?jk=4567890123"
+  },
+  {
+    "id": "11",
+    "company": "Prorich Agro Private Limited",
+    "postName": "Cattle Feed Sales Manager",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Zirakpur, Punjab",
+    "lastDate": "2025-02-16",
+    "applyLink": "https://in.indeed.com/viewjob?jk=5678901234"
+  },
+  {
+    "id": "12",
+    "company": "CbayExpress Technologies Private Limited",
+    "postName": "Customer Support Executive",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Noida, Uttar Pradesh",
+    "lastDate": "2025-03-03",
+    "applyLink": "https://in.indeed.com/viewjob?jk=6789012345"
+  },
+  {
+    "id": "13",
+    "company": "Rean WaterTech Private Limited",
+    "postName": "Project Planning & Billing Engineer",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Kolkata, West Bengal",
+    "lastDate": "2025-02-20",
+    "applyLink": "https://in.indeed.com/viewjob?jk=7890123456"
+  },
+  {
+    "id": "14",
+    "company": "ORO Precious Metals Private Limited",
+    "postName": "Fresher - Data Entry (Training provided)",
+    "qualification": "Relevant Qualification",
+    "experience": "Freshers",
+    "jobType": "Full-time",
+    "location": "Thane, Maharashtra",
+    "lastDate": "2025-02-24",
+    "applyLink": "https://in.indeed.com/viewjob?jk=8901234567"
+  },
+  {
+    "id": "15",
+    "company": "SANIFY HEALTHCARE PRIVATE LIMITED",
+    "postName": "Data Entry/Accounts/Purchase",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Mohali, Punjab",
+    "lastDate": "2025-02-24",
+    "applyLink": "https://in.indeed.com/viewjob?jk=9012345678"
+  },
+  {
+    "id": "16",
+    "company": "Nexgensis Technologies PVT LTD",
+    "postName": "Quality Assurance",
+    "qualification": "Relevant Qualification",
+    "experience": "Relevant Experience",
+    "jobType": "Full-time",
+    "location": "Pune, Maharashtra",
+    "lastDate": "2025-03-05",
+    "applyLink": "https://in.indeed.com/viewjob?jk=0123456789"
+  }
+]

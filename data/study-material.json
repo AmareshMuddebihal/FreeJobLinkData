@@ -1,0 +1,201 @@
+{
+  "exams": [
+    {
+      "exam": "JEE Main",
+      "description": "The Joint Entrance Examination (JEE) Main is a national level entrance exam for admission to undergraduate engineering programs in India.",
+      "additional_info": "JEE Main is one of the most challenging exams in India. It has two papers: Paper 1 (for B.Tech) and Paper 2 (for B.Arch).",
+      "study_material": [
+        {
+          "title": "Mathematics Study Guide",
+          "pdf_link": "https://example.com/jee-maths.pdf"
+        },
+        {
+          "title": "Physics Formulas",
+          "pdf_link": "https://example.com/jee-physics.pdf"
+        },
+        {
+          "title": "Chemistry Notes",
+          "pdf_link": "https://example.com/jee-chemistry.pdf"
+        }
+      ]
+    },
+    {
+      "exam": "NEET UG",
+      "description": "The National Eligibility cum Entrance Test (NEET) is an entrance exam for medical courses in India.",
+      "additional_info": "NEET UG is required for admission to medical, dental, and AYUSH courses. It is conducted by NTA every year.",
+      "study_material": [
+        {
+          "title": "NEET Biology Handbook",
+          "pdf_link": "https://example.com/neet-biology.pdf"
+        },
+        {
+          "title": "NEET Physics Notes",
+          "pdf_link": "https://example.com/neet-physics.pdf"
+        },
+        {
+          "title": "NEET Chemistry Revision",
+          "pdf_link": "https://example.com/neet-chemistry.pdf"
+        }
+      ]
+    },
+    {
+      "exam": "CAT",
+      "description": "The Common Admission Test (CAT) is a computer-based test for admission to MBA programs in India.",
+      "additional_info": "CAT is one of the most competitive exams in India for admission to prestigious business schools like IIMs, SP Jain, and FMS.",
+      "study_material": [
+        {
+          "title": "Quantitative Aptitude",
+          "pdf_link": "https://example.com/cat-qa.pdf"
+        },
+        {
+          "title": "Verbal Ability and Reading Comprehension",
+          "pdf_link": "https://example.com/cat-vrc.pdf"
+        },
+        {
+          "title": "Data Interpretation and Logical Reasoning",
+          "pdf_link": "https://example.com/cat-dilr.pdf"
+        }
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "course": "Engineering",
+      "sub_courses": [
+        {
+          "sub_course": "Computer Science",
+          "specializations": [
+            {
+              "specialization": "AI & ML",
+              "resources": [
+                {
+                  "title": "AI Algorithms Guide",
+                  "pdf_link": "https://example.com/ai-ml.pdf"
+                },
+                {
+                  "title": "Deep Learning with Python",
+                  "pdf_link": "https://example.com/deep-learning.pdf"
+                }
+              ]
+            },
+            {
+              "specialization": "Cyber Security",
+              "resources": [
+                {
+                  "title": "Ethical Hacking Handbook",
+                  "pdf_link": "https://example.com/ethical-hacking.pdf"
+                },
+                {
+                  "title": "Network Security Essentials",
+                  "pdf_link": "https://example.com/network-security.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sub_course": "Mechanical Engineering",
+          "specializations": [
+            {
+              "specialization": "Thermodynamics",
+              "resources": [
+                {
+                  "title": "Thermodynamics Fundamentals",
+                  "pdf_link": "https://example.com/thermodynamics.pdf"
+                },
+                {
+                  "title": "Heat Transfer Calculations",
+                  "pdf_link": "https://example.com/heat-transfer.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course": "Medical",
+      "sub_courses": [
+        {
+          "sub_course": "MBBS",
+          "specializations": [
+            {
+              "specialization": "Surgery",
+              "resources": [
+                {
+                  "title": "Surgical Procedures",
+                  "pdf_link": "https://example.com/surgery.pdf"
+                },
+                {
+                  "title": "Anatomy for Surgeons",
+                  "pdf_link": "https://example.com/anatomy-surgeons.pdf"
+                }
+              ]
+            },
+            {
+              "specialization": "Pediatrics",
+              "resources": [
+                {
+                  "title": "Pediatric Care Guide",
+                  "pdf_link": "https://example.com/pediatrics.pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sub_course": "Dental",
+          "specializations": [
+            {
+              "specialization": "Orthodontics",
+              "resources": [
+                {
+                  "title": "Orthodontics Manual",
+                  "pdf_link": "https://example.com/orthodontics.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course": "Law",
+      "sub_courses": [
+        {
+          "sub_course": "Corporate Law",
+          "specializations": [
+            {
+              "specialization": "Mergers and Acquisitions",
+              "resources": [
+                {
+                  "title": "M&A Handbook",
+                  "pdf_link": "https://example.com/ma-handbook.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "course": "Arts",
+      "sub_courses": [
+        {
+          "sub_course": "Fine Arts",
+          "specializations": [
+            {
+              "specialization": "Painting",
+              "resources": [
+                {
+                  "title": "Basics of Painting",
+                  "pdf_link": "https://example.com/painting-basics.pdf"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
